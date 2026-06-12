@@ -1,0 +1,11 @@
+"""Bluez definitions"""
+
+BLUEZ_BUS_NAME = "org.bluez"
+BLUEZ_PATH = "/org/bluez"
+BLUEZ_ADAPTER1_IFACE = "org.bluez.Adapter1"
+BLUEZ_DEVICE1_IFACE = "org.bluez.Device1"
+BLUEZ_SERVICE1_IFACE = "org.bluez.GattService1"
+BLUEZ_CHARACTERISTIC1_IFACE = "org.bluez.GattCharacteristic1"
+BLUEZ_DESCRIPTOR1_IFACE = "org.bluez.GattDescriptor1"
+PROPERTIES_IFACE = "org.freedesktop.DBus.Properties"
+OBJ_MGR_IFACE = "org.freedesktop.DBus.ObjectManager"
